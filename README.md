@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **anirudl2@illinois.edu**
 
-- 📄 Know about my experiences [http://anirudlappathi.com/AniruddhaLappathiResume.pdf](http://anirudlappathi.com/AniruddhaLappathiResume.pdf)
+- 📄 Get to know about me [http://anirudlappathi.com](http://anirudlappathi.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
