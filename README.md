@@ -1,8 +1,6 @@
 <h1 align="center">My name is Anirud Lappathi</h1>
 <h3 align="center">I am currently a Computer Science student at the University of Illinois at Urbana-Champaign</h3>
 
-- 🔭 I’m currently working on [Poshify](https://poshify.me)
-
 - 🌱 I’m currently learning **Flask, AWS, Pytorch, OpenCV, MySQL, React**
 
 - 📫 How to reach me **anirudl2@illinois.edu**
