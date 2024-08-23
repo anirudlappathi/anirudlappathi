@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **AWS, Tensorflow, Parallel Programming**
 
-- 📫 How to reach me **anirudl2@illinois.edu**
-
 - 📄 Get to know about me [https://anirudlappathi.com](http://anirudlappathi.com/)
 
 <h3 align="left">Connect with me:</h3>
